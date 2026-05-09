@@ -1,0 +1,3 @@
+float32 battery_level
+int32 medicine_count
+geometry_msgs/Pose current_pose
